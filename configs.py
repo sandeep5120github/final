@@ -11,7 +11,7 @@ class Config(object):
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdiskcynitebot")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOHoBu0HHPw7a_0walCTm-fPKWLJTGiT4UnKJ1y9TASGuQVNXMO2magBdHAJQalxfVrmsoxEyDQkmCbQnK4aVbBbWtKwBFvTe-krYGHOvZhyVHHA0Y_0oT4vFUIHD4YidwjTriPkfsgWiCcJsoa68alAqQj60pR9gcDfsfWd7qUzKJBbj3NUi83yLDCwJVctgwEBwS_7tcrlCNjs4MYRxszT0xgZjcdAAn66RUPECBNYzDX2iSC4-AIpEYj3OU0SyO8L3S_ZNu_O3VCzO6qx9B6dXtTgrTqUWPxuJo15CdpEfrdvgtxuzVg7ag8n7BtMLilveW3HyHcDCS_KQNW8WfXWE6xo=")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001823003476")) 
-    BOT_USERNAME = os.getenv("BOT_USERNAME", "cynitemdiskbot")
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "SandeepXMovies01bot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "1267474999"))
 #    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "cyniteSupport")
     BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "SandeepXMovies")
